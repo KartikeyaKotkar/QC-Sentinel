@@ -1,0 +1,272 @@
+[
+  {
+    "query_id": "GODOT-121934",
+    "query_text": "Script Editor: CTRL+D prints an error if a newline is selected - ### Tested versions",
+    "query_subsystem": "editor",
+    "relevant_ids": [
+      "GODOT-121934"
+    ],
+    "is_duplicate": true
+  },
+  {
+    "query_id": "GODOT-123345",
+    "query_text": "Visual Shader - Expression Node does not expand the text/expression input anymore. - ### Tested versions",
+    "query_subsystem": "editor",
+    "relevant_ids": [
+      "GODOT-123345"
+    ],
+    "is_duplicate": true
+  },
+  {
+    "query_id": "GODOT-123573",
+    "query_text": "`NOTIFICATION_PATH_RENAMED` duplicate name with different node name casing than default - ### Tested versions",
+    "query_subsystem": "editor",
+    "relevant_ids": [
+      "GODOT-123573"
+    ],
+    "is_duplicate": true
+  },
+  {
+    "query_id": "GODOT-120474",
+    "query_text": "Reflection Probe for Mobile and Forward+ crashes in Godot 4 Depending on Configuration - ### Tested versions",
+    "query_subsystem": "rendering",
+    "relevant_ids": [
+      "GODOT-120474"
+    ],
+    "is_duplicate": true
+  },
+  {
+    "query_id": "GODOT-95550",
+    "query_text": "\"vkCreateGraphicsPipelines failed with error -3\" errors after OS upgrade. - ### Tested versions",
+    "query_subsystem": "rendering",
+    "relevant_ids": [
+      "GODOT-95550"
+    ],
+    "is_duplicate": true
+  },
+  {
+    "query_id": "GODOT-105868",
+    "query_text": "Normal maps with mipmaps display wrong at seams where the original texture does not - ### Tested versions",
+    "query_subsystem": "rendering",
+    "relevant_ids": [
+      "GODOT-105868"
+    ],
+    "is_duplicate": true
+  },
+  {
+    "query_id": "GODOT-72319",
+    "query_text": "Nodes that Extend a script don't gain new parent @export's - ### Godot version",
+    "query_subsystem": "gdscript",
+    "relevant_ids": [
+      "GODOT-72319"
+    ],
+    "is_duplicate": true
+  },
+  {
+    "query_id": "GODOT-123139",
+    "query_text": "`@export_range` autocomplete not showing all `extra_hints` options - ### Tested versions",
+    "query_subsystem": "gdscript",
+    "relevant_ids": [
+      "GODOT-123139"
+    ],
+    "is_duplicate": true
+  },
+  {
+    "query_id": "GODOT-64202",
+    "query_text": "Call `inst2dict` on `class Example extends Resource` returned by `Resource::duplicate()` will throw `GDScript utility function` error - ### Godot version",
+    "query_subsystem": "gdscript",
+    "relevant_ids": [
+      "GODOT-64202"
+    ],
+    "is_duplicate": true
+  },
+  {
+    "query_id": "GODOT-122275",
+    "query_text": "[3.x] Crash during import with new `PoolVector` - ### Tested versions",
+    "query_subsystem": "core",
+    "relevant_ids": [
+      "GODOT-122275"
+    ],
+    "is_duplicate": true
+  },
+  {
+    "query_id": "GODOT-98865",
+    "query_text": "Using load_threaded_request with sub_threads raises errors when requesting multiple scenes with scripts that access the same autoloaded node - ### Tested versions",
+    "query_subsystem": "core",
+    "relevant_ids": [
+      "GODOT-98865"
+    ],
+    "is_duplicate": true
+  },
+  {
+    "query_id": "GODOT-61742",
+    "query_text": "Custom resource methods are unavailable in a property setter with that resource's type - ### Godot version",
+    "query_subsystem": "core",
+    "relevant_ids": [
+      "GODOT-61742"
+    ],
+    "is_duplicate": true
+  },
+  {
+    "query_id": "GODOT-118375",
+    "query_text": "High CPU usage due to coreaudiod and corespeechd processes on macOS - ### Tested versions",
+    "query_subsystem": "platforms",
+    "relevant_ids": [
+      "GODOT-118375"
+    ],
+    "is_duplicate": true
+  },
+  {
+    "query_id": "GODOT-110751",
+    "query_text": "`DisplayServer.keyboard_get_keycode_from_physical` returns 0 on macOS - ### Tested versions",
+    "query_subsystem": "platforms",
+    "relevant_ids": [
+      "GODOT-110751"
+    ],
+    "is_duplicate": true
+  },
+  {
+    "query_id": "GODOT-121084",
+    "query_text": "Player with dual discrete & integrated graphics card getting immediate crash message of \"winrt::hresult_error\" - ### Tested versions",
+    "query_subsystem": "platforms",
+    "relevant_ids": [
+      "GODOT-121084"
+    ],
+    "is_duplicate": true
+  },
+  {
+    "query_id": "GODOT-119213",
+    "query_text": "Script, mouse over popup doesn't stay closed - ### Tested versions",
+    "query_subsystem": "gui",
+    "relevant_ids": [
+      "GODOT-119213"
+    ],
+    "is_duplicate": true
+  },
+  {
+    "query_id": "GODOT-122944",
+    "query_text": "Word Wrap and Word Wrap (Smart) for Label completely freezes Godot in specific configuration - ### Tested versions",
+    "query_subsystem": "gui",
+    "relevant_ids": [
+      "GODOT-122944"
+    ],
+    "is_duplicate": true
+  },
+  {
+    "query_id": "GODOT-104205",
+    "query_text": "Tooltips reappear after being closed - ### Tested versions",
+    "query_subsystem": "gui",
+    "relevant_ids": [
+      "GODOT-104205"
+    ],
+    "is_duplicate": true
+  },
+  {
+    "query_id": "GODOT-123378",
+    "query_text": "Jolt Physics crashes on 32-bit Windows: MOVAPS into 8-byte-aligned allocations - ### Tested versions",
+    "query_subsystem": "physics",
+    "relevant_ids": [
+      "GODOT-123378"
+    ],
+    "is_duplicate": true
+  },
+  {
+    "query_id": "GODOT-118047",
+    "query_text": "Overlapping Area3Ds in Jolt physics seems to cause lag. - ### Tested versions",
+    "query_subsystem": "physics",
+    "relevant_ids": [
+      "GODOT-118047"
+    ],
+    "is_duplicate": true
+  },
+  {
+    "query_id": "GODOT-101894",
+    "query_text": "Collision shapes update (2d and 3d) race condition causing infinite loop - ### Tested versions",
+    "query_subsystem": "physics",
+    "relevant_ids": [
+      "GODOT-101894"
+    ],
+    "is_duplicate": true
+  },
+  {
+    "query_id": "GODOT-121158",
+    "query_text": "AnimationMixer applies Node3D scale animation tracks in parent space when combining position/rotation/scale - ### Tested versions",
+    "query_subsystem": "animation",
+    "relevant_ids": [
+      "GODOT-121158"
+    ],
+    "is_duplicate": true
+  },
+  {
+    "query_id": "GODOT-121421",
+    "query_text": "Inverted logic of `LookAtModifier3D::is_interpolating` - ### Tested versions",
+    "query_subsystem": "animation",
+    "relevant_ids": [
+      "GODOT-121421"
+    ],
+    "is_duplicate": true
+  },
+  {
+    "query_id": "GODOT-106362",
+    "query_text": "Editor crash from AnimationPlayer under certain circumstances - ### Tested versions",
+    "query_subsystem": "animation",
+    "relevant_ids": [
+      "GODOT-106362"
+    ],
+    "is_duplicate": true
+  },
+  {
+    "query_id": "GODOT-122913",
+    "query_text": "Having a light() function breaks any shader in current Master branch - ### Tested versions",
+    "query_subsystem": "shaders",
+    "relevant_ids": [
+      "GODOT-122913"
+    ],
+    "is_duplicate": true
+  },
+  {
+    "query_id": "GODOT-117362",
+    "query_text": "Unrecognized UID on editor start for files such as default_bus_layout and main_scene - ### Tested versions",
+    "query_subsystem": "editor",
+    "relevant_ids": [
+      "GODOT-117362"
+    ],
+    "is_duplicate": true
+  },
+  {
+    "query_id": "GODOT-100271",
+    "query_text": "_input: No InputEventMouse after click and drag when mouse is outside game window in the first window focus - ### Tested versions",
+    "query_subsystem": "platforms",
+    "relevant_ids": [
+      "GODOT-100271"
+    ],
+    "is_duplicate": true
+  },
+  {
+    "query_id": "GODOT-121720",
+    "query_text": "F-Droid can't build Editor w/ separate arches - ### Tested versions",
+    "query_subsystem": "buildsystem",
+    "relevant_ids": [
+      "GODOT-121720"
+    ],
+    "is_duplicate": true
+  },
+  {
+    "query_id": "GODOT-107358",
+    "query_text": "[macOS] Touchpad 3D panning is not enough sensitive - ### Tested versions",
+    "query_subsystem": "editor",
+    "relevant_ids": [
+      "GODOT-107358"
+    ],
+    "is_duplicate": true
+  },
+  {
+    "query_id": "GODOT-123684",
+    "query_text": "For some editor display scale values, last character of longest line in text editor is outside of scroll box - ### Tested versions",
+    "query_subsystem": "editor",
+    "relevant_ids": [
+      "GODOT-123684"
+    ],
+    "is_duplicate": true
+  }
+]
