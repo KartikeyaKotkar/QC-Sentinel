@@ -1,0 +1,12 @@
+.venv
+__pycache__
+*.pyc
+.git
+.gitignore
+data/chroma_db
+data/raw
+eval/results.json
+.idea
+.vscode
+*.log
+tmp

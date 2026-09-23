@@ -1,0 +1,28 @@
+# Python
+.venv/
+__pycache__/
+*.py[cod]
+*.egg-info/
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+
+# Env
+.env
+
+# Data / Chroma
+data/chroma_db/
+data/raw/*.json
+!data/raw/.gitkeep
+
+# Ollama
+ollama_data/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+.DS_Store
+
+# Eval output
+eval/results.json
